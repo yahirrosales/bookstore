@@ -1,3 +1,5 @@
 This is going to be our login functionality
 
-Furthr work on login functionality
+Further work on login functionality
+
+New login functionality
