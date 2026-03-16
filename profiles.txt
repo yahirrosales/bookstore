@@ -5,4 +5,4 @@ Anna Smith - M - 20
 Bruce Wayne - M - 40
 Aquaman - M - 40
 Peter Parker - M - 18
-Haaland
+Haaland - M - 25
